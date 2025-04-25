@@ -1,5 +1,7 @@
 # 📊 Sorting Algorithm Visualizer
 
+![image](https://github.com/user-attachments/assets/66d7baea-f462-4bfc-8986-e694c7946b86)
+
 An interactive web application that demonstrates how various sorting algorithms work through step-by-step visualization.
 
 ## Key Features
@@ -15,5 +17,5 @@ An interactive web application that demonstrates how various sorting algorithms 
 - Random array generation
 - Algorithm selection dropdown
 - Pick your own array
-- 
+  
 ![image](https://github.com/user-attachments/assets/e8c7df04-4c49-475c-8cb9-ddebd41fcd7a)
