@@ -18,7 +18,7 @@ An interactive web application that demonstrates how various sorting algorithms 
 - Algorithm selection dropdown
 - Pick your own array
   
-- ###  TO-DO
+ ###  TO-DO
 - Adding sort for number arrays with visualization
 - Adding non-sorting algorithms
 - User authentication and database to keep track of your past algorithm usage
