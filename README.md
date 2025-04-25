@@ -18,4 +18,11 @@ An interactive web application that demonstrates how various sorting algorithms 
 - Algorithm selection dropdown
 - Pick your own array
   
+- ###  TO-DO
+- Adding sort for number arrays with visualization
+- Adding non-sorting algorithms
+- User authentication and database to keep track of your past algorithm usage
+  
 ![image](https://github.com/user-attachments/assets/e8c7df04-4c49-475c-8cb9-ddebd41fcd7a)
+
+
