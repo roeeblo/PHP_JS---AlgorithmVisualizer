@@ -15,7 +15,7 @@ An interactive web application that demonstrates how various sorting algorithms 
 - Adjustable array size (10-200 elements)
 - Variable sorting speed (1x-30x)
 - Random array generation
-- Algorithm selection dropdown
+- Algorithm selection list
 - Pick your own array
   
  ###  TO-DO
