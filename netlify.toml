@@ -4,4 +4,3 @@
 
 [functions]
   included_files = ["**/*.php"]
-  @netlify/plugin-functions-install-core
