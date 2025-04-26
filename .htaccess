@@ -1,0 +1,11 @@
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    
+    # Redirect all requests to index.php unless the file exists
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteRule ^(.*)$ index.php [QSA,L]
+    
+    # Prevent direct access to .php files (optional security)
+    RewriteRule ^app/.*\.php$ - [R=404,L]
+</IfModule>
