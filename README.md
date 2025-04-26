@@ -1,6 +1,7 @@
 # 📊 Sorting Algorithm Visualizer
 
-![image](https://github.com/user-attachments/assets/66d7baea-f462-4bfc-8986-e694c7946b86)
+![Animation-ezgif com-optimize](https://github.com/user-attachments/assets/03139893-0f60-4dfe-b83f-2c3246d216ec)
+
 
 An interactive web application that demonstrates how various sorting algorithms work through step-by-step visualization.
 
@@ -22,7 +23,6 @@ An interactive web application that demonstrates how various sorting algorithms 
 - Adding sort for number arrays with visualization
 - Adding non-sorting algorithms
 - User authentication and database to keep track of your past algorithm usage
-  
+
+![image](https://github.com/user-attachments/assets/66d7baea-f462-4bfc-8986-e694c7946b86)
 ![image](https://github.com/user-attachments/assets/e8c7df04-4c49-475c-8cb9-ddebd41fcd7a)
-
-
